@@ -61,9 +61,19 @@ docs: add LLama-Factory basic usage guide
 
 2025.01.11
 docs: add Docker common configuration guide
-[[link]](Common_Tools/Linux/0_Basic_Linux_Command.md)
+[[link]](Common_Tools/Docker/0_Docker_Common_Configuration.md)
 
 - Add comprehensive Docker setup and usage guide
 - Include common Docker commands and installation steps
 - Document SSH service configuration and complex run settings
 - Add solutions for common issues (SSH, VSCode Server, shared memory)
+
+2025.01.11
+docs: add basic Linux command reference guide
+[[link]](Common_Tools/Linux/0_Basic_Linux_Command.md)
+
+- Add SSH port configuration notes (0.0.0.0 vs 127.0.0.1)
+- Document IPV6 ping commands for Windows and Linux
+- Include environment variable management (.bashrc, chmod, which)
+- Add common utility commands (pwd, wget)
+- Document file permission indicators and ls command flags
